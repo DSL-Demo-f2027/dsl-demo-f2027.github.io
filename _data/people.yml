@@ -1,17 +1,22 @@
-# Edit this file to add your course instructors and TAs.
-# profile_pic: put a photo in _images/pp/ and reference it here.
-# webpage: optional personal/faculty page link.
-#
-# Both instructors and TAs are added to the instructors-{semester} team
-# in the course org (maintain access). GitHub Classroom handles
-# submission-level grader access separately.
+# declared in the course .github/dsl-course.yml `people:` block.
+
+instructor:
+  name: "Prof. Lynn Kaack, PhD"
+  profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/7/9/csm_Kaack3_01_36ff2991f7.png"
+  webpage: "https://www.hertie-school.org/de/research/faculty-and-researchers/profile/person/kaack"
 
 instructors:
-  - name: "Instructor Name"
-    profile_pic: /_images/pp/placeholder.jpg
-    webpage: "https://hertie-school.org/en/datasciencelab"
+  - name: "Prof. Lynn Kaack, PhD"
+    profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/7/9/csm_Kaack3_01_36ff2991f7.png"
+    webpage: "https://www.hertie-school.org/de/research/faculty-and-researchers/profile/person/kaack"
+    title: "Assistant Professor of Computer Science and Public Policy"
 
 teaching_assistants:
-  - name: "TA Name"
-    profile_pic: /_images/pp/placeholder.jpg
-    webpage: ""
+  - name: "Chiara Fusar Bassini"
+    profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/6/f/csm_Picture_Chiara_Fusar_Bassini_be71ff890e.jpg"
+    webpage: "https://www.hertie-school.org/en/who-we-are/profile/person/fusar-bassini"
+    title: "PhD candidate, Data Science Lab"
+  - name: "Henry Baker"
+    profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/f/8/csm_Henry_final_deda644991.jpg"
+    webpage: "https://www.hertie-school.org/en/who-we-are/profile/person/baker"
+    title: "Teaching Assistant"
