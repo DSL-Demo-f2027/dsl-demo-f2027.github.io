@@ -5,10 +5,10 @@
 # Do NOT change anything below the "Do not change" line.
 
 # --- Course identity ---
-course_name: "Deep Learning (Demo)"
+course_name: "DSL-Demo-Course-E1234"
 course_description: "One paragraph description of the course."
 course_semester: "Fall 2027"
-course_code: "GRAD-DEMO"
+course_code: "E1234"
 github_org: "Hertie-School-Deep-Learning-E1394"  # GitHub org for this course
 
 # --- Instructor / institution ---

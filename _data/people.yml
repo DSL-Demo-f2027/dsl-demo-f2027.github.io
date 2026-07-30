@@ -1,22 +1,13 @@
-# declared in the course .github/dsl-course.yml `people:` block.
+# auto-generated from the org's instructors team.
 
 instructor:
-  name: "Prof. Lynn Kaack, PhD"
-  profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/7/9/csm_Kaack3_01_36ff2991f7.png"
-  webpage: "https://www.hertie-school.org/de/research/faculty-and-researchers/profile/person/kaack"
+  name: "Henry Baker"
+  profile_pic: "https://avatars.githubusercontent.com/u/118537936?v=4"
+  webpage: "https://github.com/henrycgbaker"
 
 instructors:
-  - name: "Prof. Lynn Kaack, PhD"
-    profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/7/9/csm_Kaack3_01_36ff2991f7.png"
-    webpage: "https://www.hertie-school.org/de/research/faculty-and-researchers/profile/person/kaack"
-    title: "Assistant Professor of Computer Science and Public Policy"
-
-teaching_assistants:
-  - name: "Chiara Fusar Bassini"
-    profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/6/f/csm_Picture_Chiara_Fusar_Bassini_be71ff890e.jpg"
-    webpage: "https://www.hertie-school.org/en/who-we-are/profile/person/fusar-bassini"
-    title: "PhD candidate, Data Science Lab"
   - name: "Henry Baker"
-    profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/f/8/csm_Henry_final_deda644991.jpg"
-    webpage: "https://www.hertie-school.org/en/who-we-are/profile/person/baker"
-    title: "Teaching Assistant"
+    profile_pic: "https://avatars.githubusercontent.com/u/118537936?v=4"
+    webpage: "https://github.com/henrycgbaker"
+
+teaching_assistants: []
