@@ -1,18 +1,22 @@
 # declared in the `people:` block.
 
 instructor:
-  name: "Henry Baker"
-  profile_pic: "https://github.com/henrycgbaker.png"
-  webpage: "https://www.hertie-school.org/en/who-we-are/profile/person/baker"
+  name: "Prof. Lynn Kaack, PhD"
+  profile_pic: "https://github.com/LynnKaack.png"
+  webpage: "https://www.hertie-school.org/de/research/faculty-and-researchers/profile/person/kaack"
 
 instructors:
-  - name: "Henry Baker"
-    profile_pic: "https://github.com/henrycgbaker.png"
-    webpage: "https://www.hertie-school.org/en/who-we-are/profile/person/baker"
-    title: "Instructor"
+  - name: "Prof. Lynn Kaack, PhD"
+    profile_pic: "https://github.com/LynnKaack.png"
+    webpage: "https://www.hertie-school.org/de/research/faculty-and-researchers/profile/person/kaack"
+    title: "Assistant Professor of Computer Science and Public Policy"
 
 teaching_assistants:
+  - name: "Chiara Fusar Bassini"
+    profile_pic: "https://github.com/chiara-fb.png"
+    webpage: "https://www.hertie-school.org/en/who-we-are/profile/person/fusar-bassini"
+    title: "PhD candidate, Data Science Lab"
   - name: "Henry Baker"
     profile_pic: "/_images/pp/henrycgbaker.jpg"
     webpage: "https://www.hertie-school.org/en/who-we-are/profile/person/baker"
-    title: "Teaching Assistant"
+    title: "Research Engineer & Data Scientist"
