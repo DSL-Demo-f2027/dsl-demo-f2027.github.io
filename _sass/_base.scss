@@ -404,11 +404,19 @@ a.tosu {
 }
 
 .image--cover-container {
-    width: 90px;
+    width: 130px;
     float: left;
     text-align: center;
     margin: 0px;
-    margin-right: 40px;
+    margin-right: 24px;
+    margin-bottom: 12px;
+}
+
+.profile-title {
+    font-size: 0.75rem;
+    line-height: 1.25;
+    opacity: 0.75;
+    margin-top: -6px;
 }
 
 .image--cover {
