@@ -9,7 +9,7 @@ course_name: "Machine Learning Fundamentals (Demo)"
 course_description: "One paragraph description of the course."
 course_semester: "Fall 2027"
 course_code: "E1234"
-github_org: "DSL-Demo-f2027"
+github_org: "hertie-dsl-demo-f2027"
 
 # --- Instructor / institution ---
 schoolname: "Hertie School"
@@ -31,7 +31,7 @@ address: |
 ### Do not change the following unless you know what you are doing ###
 
 baseurl: ""
-url: ""
+url: "https://hertie-dsl-demo-f2027.github.io"
 
 markdown: kramdown
 permalink: blog/:year/:month/:title
